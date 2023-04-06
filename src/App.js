@@ -9,7 +9,7 @@ class App extends Component {
         messages: [
             {username: 'Himanshu', text: 'Hi, Shekhar!'},
             {username: 'Himanshu', text: 'How are you?'},
-            {username: 'Shekhar', text: 'Hi, Himanshu! Good, you?'},
+            {username: 'Shekhar', text: 'Hi, Himanshu! Good, wbu?'},
         ],
         users: [{username: 'Himanshu'}, {username: 'Shekhar'}]
     };
